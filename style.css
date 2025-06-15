@@ -18,8 +18,8 @@ h1{
     gap: 3rem;
 }
 .choice{
-    height: 12vw;
-    width: 12vw;
+    height: 13vw;
+    width: 13vw;
     margin-top: 5rem;
     border-radius: 50%;
     box-shadow: 0 0 1rem rgba(0,0,0,0.4);
@@ -31,8 +31,8 @@ h1{
     border: 2px solid #081b31;
 }
 img{
-    height: 12vw;
-    width: 12vw;
+    height: 13vw;
+    width: 13vw;
     object-fit: cover;
     border-radius: 50%;
 }
@@ -48,7 +48,7 @@ img{
     font-size: 2vw;
 }
 #user-score, #computer-score{
-    font-size: 5vw;
+    font-size: 6vw;
 }
 .score{
     margin-top: 6rem;
@@ -62,9 +62,9 @@ img{
 #msg{
     background-color: #081b31;
     color: #fff;
-    font-size: 2vw;
+    font-size: 3vw;
     display: inline;
-    padding: 0.5vw;
+    padding: 0.6vw;
     border: 2px solid black;
     border-radius: 1rem;
     box-shadow: 0 0 1rem rgba(0,0,0,0.4);
